@@ -27,7 +27,7 @@ xmind新版本无法兼容xmind包生成的文件，并抛出not a valid file错
 
 放回原来的xmind中，就大功告成了。
 
-详细内容请参考代码xmind_update.py。
+详细内容请参考代码xmind-fix/xmind_fix.py。
 
 
 
