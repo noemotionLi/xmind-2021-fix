@@ -7,7 +7,7 @@ xmind-fix.py实质上可以称作为 a tool for creating manifest.xml  automatic
 
 xmind新版本无法兼容xmind包生成的文件，并抛出not a valid file错误
 
-![xmind 报错](C:\Users\10291\AppData\Roaming\Typora\typora-user-images\image-20220425100435291.png)
+![xmind 报错](https://github.com/noemotionLi/xmind-2021-fix/blob/main/images/xmind%E7%9B%AE%E5%BD%95.png)
 
 ## 2. 原因
 
