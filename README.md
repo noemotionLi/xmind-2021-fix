@@ -7,13 +7,13 @@ xmind-fix.py实质上可以称作为 a tool for creating manifest.xml  automatic
 
 xmind新版本无法兼容xmind包生成的文件，并抛出not a valid file错误
 
-![xmind 报错](https://github.com/noemotionLi/xmind-2021-fix/blob/main/images/xmind%E7%9B%AE%E5%BD%95.png)
+![xmind 报错](https://github.com/noemotionLi/xmind-2021-fix/blob/main/images/%E6%8A%A5%E9%94%99.png)
 
 ## 2. 原因
 
 新版的xmind文件内（可以用zip压缩软件直接打开），可以看到有META-INF文件夹，而xmind包似乎不会生成这个目录文件。
 
-![目录文件](https://github.com/noemotionLi/xmind-2021-fix/blob/main/images/%E6%8A%A5%E9%94%99.png)
+![目录文件](https://github.com/noemotionLi/xmind-2021-fix/blob/main/images/xmind%E7%9B%AE%E5%BD%95.png)
 
 # 3. 解决方案
 
