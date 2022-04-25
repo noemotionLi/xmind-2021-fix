@@ -13,7 +13,7 @@ xmind新版本无法兼容xmind包生成的文件，并抛出not a valid file错
 
 新版的xmind文件内（可以用zip压缩软件直接打开），可以看到有META-INF文件夹，而xmind包似乎不会生成这个目录文件。
 
-![目录文件](C:\Users\10291\AppData\Roaming\Typora\typora-user-images\image-20220425100605409.png)
+![目录文件](https://github.com/noemotionLi/xmind-2021-fix/blob/main/images/%E6%8A%A5%E9%94%99.png)
 
 # 3. 解决方案
 
